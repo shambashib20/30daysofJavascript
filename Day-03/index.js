@@ -121,3 +121,28 @@ function assignGradeAccordingToScore(number){
 }
 
 console.log(assignGradeAccordingToScore(90));
+
+//Activity 4 Conditional (Ternary) Operator
+
+let evenOddNum = 2;
+evenOddNum % 2 == 0 ? console.log("The number is even") : console.log("The number is odd");
+
+
+
+//Activity 5 Combining conditions
+//leap year 
+
+let userYear = 2000;
+if (userYear % 4 == 0) {
+    if (userYear % 100 == 0) {
+        if (userYear % 400 == 0) {
+            console.log("This is a leap Year");
+        } else {
+            console.log("This is not a leap Year");
+        }
+    } else {
+        console.log("This is a leap Year");
+    }
+} else {
+    console.log("This is not a leap Year");
+}

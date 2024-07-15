@@ -1,4 +1,4 @@
-# 30 Days of Javascript Challenge in Javascript
+# 30 Days of Javascript Challenge in Javascript - Chai Aur Code challenge by Hitesh Chaudhary
 
 ## Day 01 - Variables and Datatypes
 

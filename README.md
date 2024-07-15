@@ -21,4 +21,12 @@ This is the first day of the 30 days of Javascript challenge which has been devi
  - Combine conditions using ternary operators.
  - Use the ternary operator for concise conditional expressions.
 
- 
+ ## Day 03 - Control Structures
+ This is the second day of the 30 days of Javascript challenge which has been devised by Hitesh Chaudhary sir! The folder Day - 03 contains the second day challenge which involves the learning of Control Structures in Javascript.
+
+ ### Topics learnt on Day 02
+ - Implement and understand basic if else control flow
+ - Use nested if-else statemeents to handle multiple conditions.
+ - utilise switch cases for control flow based on specific values.
+ - Apply the ternary operator for concise condition checking.
+ - Combine  conditions using ternary operators

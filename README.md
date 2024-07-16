@@ -30,3 +30,12 @@ This is the first day of the 30 days of Javascript challenge which has been devi
  - utilise switch cases for control flow based on specific values.
  - Apply the ternary operator for concise condition checking.
  - Combine  conditions using ternary operators
+
+## Day 04 - Loops
+ This is the fourth day of the 30 days of Javascript challenge which has been devised by Hitesh Chaudhary sir! The folder Day - 04 contains the second day challenge which involves the learning of Control Structures in Javascript.
+
+ ### Topics learnt on Day 04
+ - Understand and use for loops to iterate over a sequence of numbers.
+ - Utilise while loops for iteration based on a condition.
+ - Apply do while loops to ensure the loop body is executed at least once.
+

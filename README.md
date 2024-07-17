@@ -39,3 +39,11 @@ This is the first day of the 30 days of Javascript challenge which has been devi
  - Utilise while loops for iteration based on a condition.
  - Apply do while loops to ensure the loop body is executed at least once.
 
+## Day 05 - Functions
+ This is the fifth day of the 30 days of Javascript challenge which has been devised by Hitesh Chaudhary sir! The folder Day - 05 contains the second day challenge which involves the learning of Control Structures in Javascript.
+
+ ### Topics learnt on Day 05
+ - Understand and declare functions using function declarations, expressions, and arrow functions.
+ - Utilise while loops for iteration based on a condition.
+ - Apply do while loops to ensure the loop body is executed at least once.
+

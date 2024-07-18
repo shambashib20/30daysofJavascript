@@ -40,10 +40,18 @@ This is the first day of the 30 days of Javascript challenge which has been devi
  - Apply do while loops to ensure the loop body is executed at least once.
 
 ## Day 05 - Functions
- This is the fifth day of the 30 days of Javascript challenge which has been devised by Hitesh Chaudhary sir! The folder Day - 05 contains the second day challenge which involves the learning of Control Structures in Javascript.
+ This is the fifth day of the 30 days of Javascript challenge which has been devised by Hitesh Chaudhary sir! The folder Day - 05 contains the fifth day challenge which involves the learning of Control Structures in Javascript.
 
  ### Topics learnt on Day 05
  - Understand and declare functions using function declarations, expressions, and arrow functions.
  - Utilise while loops for iteration based on a condition.
  - Apply do while loops to ensure the loop body is executed at least once.
+
+ ## Day 06 - Arrays
+ This is the sixth day of the 30 days of Javascript challenge which has been devised by Hitesh Chaudhary sir! The folder Day - 06 contains the sixth day challenge which involves the learning of Arrays in Javascript.
+
+ ### Topics learnt on Day 06
+ - Create and manipulatearrays using various functions.
+ - Transform and aggregate array data using `map`, `filter` and `reduce`.
+ - Iterate over arrays using loops and iteration methods
 

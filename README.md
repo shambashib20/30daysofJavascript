@@ -55,3 +55,13 @@ This is the first day of the 30 days of Javascript challenge which has been devi
  - Transform and aggregate array data using `map`, `filter` and `reduce`.
  - Iterate over arrays using loops and iteration methods
 
+
+  ## Day 07 - Objects
+ This is the sixth day of the 30 days of Javascript challenge which has been devised by Hitesh Chaudhary sir! The folder Day - 06 contains the sixth day challenge which involves the learning of Arrays in Javascript.
+
+ ### Topics learnt on Day 07
+ - Create and manipulate objects with properties and methods.
+ - Understand and use the `this` keyword in object methods.
+ - Work with nested objects and arrays of objects.
+ - Iterate over an object's properties using loops and built in methods.
+
